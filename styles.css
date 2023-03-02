@@ -1,10 +1,15 @@
 /* Write your CSS here! */
-p {
-  margin-top: 10px;
-  margin-bottom: 10px;
-  margin-right: 20px;
-  margin-left: 20px;
+body {
+  margin-top: 8px;
+  margin-bottom: 8px;
+  margin-right: 8px;
+  margin-left: 8px;
+  background-color: lightgrey;
 }
-.intro {
-  background-color: lightgray;
+.mainHeading {
+  color: red;
+}
+
+#testP{
+  color: green;
 }

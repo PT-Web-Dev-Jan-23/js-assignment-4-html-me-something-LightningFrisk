@@ -1,10 +1,11 @@
 /* Write your CSS here! */
 body {
   margin: 8px;
-  background-color: lightgrey;
+  background-color: lightslategrey;
 }
 #mainHeading {
   color: red;
+  background-color: lightslategrey;
 }
 
 #testP{

@@ -3,7 +3,7 @@ body {
   margin: 8px;
   background-color: lightgrey;
 }
-.mainHeading {
+#mainHeading {
   color: red;
 }
 

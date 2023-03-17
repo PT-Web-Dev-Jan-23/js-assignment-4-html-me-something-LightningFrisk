@@ -1,1 +1,13 @@
 /* Write your CSS here! */
+body {
+  margin: 8px;
+  background-color: lightslategrey;
+}
+#mainHeading {
+  color: red;
+  background-color: lightslategrey;
+}
+
+#testP{
+  color: green;
+}
